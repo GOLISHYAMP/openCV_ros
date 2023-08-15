@@ -1,0 +1,8 @@
+prefix=/home/shyam/ROS/ROS_prac/OpenCV/install
+
+Name: my_open_cv_codes
+Description: Description of my_open_cv_codes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
